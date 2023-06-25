@@ -9,5 +9,4 @@ The available code is part of a practical exercise on simple linear regression a
 O código disponível faz parte de um exercício prático que envolve a aplicação da regressão linear simples e correlação simples em um estudo de caso sobre elasticidade em uma mola. Especificamente, estamos explorando a relação entre força e deformação com base na Lei de Hooke.
   Neste estudo, utilizaremos a regressão linear simples para realizar previsões de força e deformação. Através da análise dos dados, poderemos estabelecer uma equação que relacione essas duas variáveis, permitindo-nos fazer estimativas confiáveis das deformações esperadas para determinados níveis de força aplicada à mola.
 
-![Deformação da mola]([https://caminho/para/imagem.png](https://github.com/EzequielSONascimento/Regress-o_linear_simple_elasticidade_mola/blob/main/Deforma_mola_01.png)https://github.com/EzequielSONascimento/Regress-o_linear_simple_elasticidade_mola/blob/main/Deforma_mola_01.png)
-
+![Descrição da imagem](C:\Users\Ezequiel Santana\Desktop\UDEMY_analise_de_regrecoes\Deforma_mola_01.png)
